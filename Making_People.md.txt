@@ -1,0 +1,38 @@
+Let me start with a series of claims:
+
+1. Disciplines don't scale
+2. Techniques don't scale
+3. People **do** scale
+
+Depending on your viewpoint, these claims might strike you as tautological or as patently false, but let me illustrate these claims with a question and a plausible answer to that question and then a commentary that illustrates the three claims above. Question first:
+
+> What is the most general science of all? 
+
+An obvious answer to this question: *physics.* Another obvious answer: *mathematics.* Certainly, it seems that physics and mathematics are the languages in which the universe is written, the subjects with the most general scope of all. 
+
+****
+
+I beg to differ. If we replace an abstract concern for the universe as a whole with problems that human beings actually want to solve (usually ones that matter to us in our own lives) then mathematics and physics are handmaidens at best and often outright harmful. Try passing a bill through parliament using mathematics and you will know what I mean. Human problems are complex, dynamic, not bound by disciplinary boundaries and in need of everything from emotion intelligence to technical skills. 
+
+Fortunately, we evolved to solve human problems. Unfortunately, our theories did not. The fact is: our subtlest theories, even the ones that have an unreasonable effectiveness in the world, depend on the tacit backdrop of human capacities that we take for granted. 
+
+***
+You would think that a rational education system would help us build upon our natural capacities as efficiently as possible and scale these capacities across large groups of people - a genuine collective mind. That assumes that education was designed, if one want's to call it that, by a Plato's republic of cognitive scientists. We all know the distance between Plato's academy and the academy down the street. 
+
+Instead modern education was built for an industrial era driven by print media. That model of education tries to scale subjects and techniques, which is fine; that was the need of the times. However, the industrial era was a stage in human history where we treated humans beings as widgets and nature as a resource to be plundered. We are now entering an era where we can't do so anymore. 
+
+For one, we can't take nature for granted because by doing so we have almost destroyed the planet. Second, the frontiers of knowledge have reached those very problems such as the study of the brain where science is inquiring into the very thing that we took for granted. Third, most business and social activity requires complex, adaptive behavior of the kind that isn't inculcated by learning physics or mathematics. In fact, let me make a bold claim:
+
+> For much human endeavor, we only need a good enough ([satisficing](http://en.wikipedia.org/wiki/Satisficing), to use a technical term) understanding of what we now call science, but not more. In fact, knowing more might be harmful, for it gives us false confidence in knowledge gathering traditions that are deeply flawed. 
+
+Yes, I know that depth is greatly prized and so is expertise, but sometimes too much learning is a bad thing too. Nevertheless, I am not arguing that shallow knowledge replace deep knowledge. Instead, I want deep *problem* based knowledge to replace deep *discipline* based knowledge. 
+
+> For example, suppose you want to build a better traffic system in Bangalore. This is not a physics problem but it needs sophisticated traffic modeling. It's not a political problem alone, though politics is at it's core. It's not an engineering problem, but re-engineering traffic is essential. And so on. People who come together to address the problem of Bangalore traffic will have to have individual and collective expertise in all its aspects. This is what I call the Sherlock Holmes theory of knowledge[^1]  - a clear sense for what is general culture - mostly to be ignored - and at the same time, keen eye for what's important. 
+
+Where do we go for training for such problems? More importantly, what kind of *person* is likely to solve such problems?  I will be exploring these questions in future posts. 
+
+****
+
+Let me end by reiterating my main point: we can't scale disciplines or techniques quickly. In fact, we may not want to, for that's an enormous investment of effort in a world where problems change overnight and new fields of knowledge arise every day. Instead of training people in tools and techniques that are applied to a narrow range of problems, let's invert the gaze: invent tools and techniques that *enhance people instead* and let them adapt to the problems that face them. That's the angle I am pushing. 
+
+[^1]: If you want to know why I call it the Sherlock Holmes' theory of knowledge, you might want to read [this list](http://www.goodreads.com/quotes/566290-dr-watson-s-summary-list-of-sherlock-holmes-s-strengths-and-weaknesses).

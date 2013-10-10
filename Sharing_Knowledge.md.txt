@@ -1,0 +1,68 @@
+## Is Knowledge Meant to be Shared? 
+
+You would think that **sharing knowledge** is an oxymoron, like *sharing air*. Isn't knowledge by it's very nature shared? Can someone own knowledge?  The answer to these puzzles is that there's a major tension in our practice of knowledge, whatever our theoretical stance might be. For example:
+
+1. The design of knowledge systems has both sharing and ownership built into it. We write our papers and books as individuals, with attribution, copyright protection and intellectual property written into the design of the system. 
+
+2. At the same time, we release our ideas into the world and let anyone build upon those. We see further because we stand on the shoulders of giants. 
+
+Nevertheless, the main elements of the current creative system (for lack of a better term) such as academia, art houses and research organizations emphasize ownership over sharing. The problem starts at the top - the world of idea professionals is not one of sharing. You don't get tenure by contributing to a common pool. You get tenure by claiming rights to an idea, a paper, a book. Grants are given based on that track record. Awards are based on that track record.  That need for ownership is increasing, since permanent positions in academia are getting cut, there's intense competition for scarce resources. Since sharing doesn't get you the epaulets that get you tenure, there's simply no incentive to share. Academia is a low-trust winner take all system; not exactly the best conditions for genuine cooperation to thrive. 
+
+The only alternative is large public projects where sharing is mandated, but those are top-down, hierarchical systems that severely curtail the autonomy of the investigator. So we are caught in a system with two dysfunctional poles: either you fight hard to get tenure by grabbing as much of the pie for yourself as possible or you relinquish any autonomy over your own epistemic development by working on a project where you have a narrowly defined role. 
+
+> Genuine sharing and cooperation doesn't involve either pole. 
+
+We need a more organic model for sharing, one where knowledge isn't a product, where people can lead autonomous sustainable lives as knowledge workers, where there's minimal conflict between creating on your own and creating with others. 
+
+***
+
+## A Minimum Viable Product
+
+Like any industry that's disrupted, academia is now facing threats at the margins, especially in the use of technology to transform centuries old practices. Teaching and research are at the core of academia. We are now beginning to see the commoditization of teaching. Strangely, the best known examples of commoditization are coming from within academia itself, with the founding of EDx, Coursera and other MOOC distributors. 
+
+Not surprising actually, when you think about the fierceness of the competition for scarce resources - the most prestigious players are making a concerted attempt to undercut their own less endowed and less prestigious peers. There isn't enough money for everyone, so the bigger players are beginning to eat up the smaller ones. It's clear that academia as a reliable, widely available source of livelihood (academic positions, that is) is unsustainable. We have seen that with the increasing power of administrators, the emphasis on productivity over knowledge and the increasing reliance on adjuncts over full time staff. MOOCs are an attempt to carry the corporate takeover to its logical conclusion. They are disruptive all right, but a reactionary disruption, not the progressive one that they claim to be. 
+
+However, the current model of education disruption is unviable, for principled as well as pragmatic reasons. Why's that? 
+
+***
+
+## How to design a flawed disruptive system
+
+Let's start with the basic emotional pull of the MOOC: 
+
+> You can learn anything you want, taught by the worlds best lecturers from the worlds best institutions. All for **free**. 
+
+I have two problems with that claim. One is skepticism about the claim itself and the second is serious misgivings about the outcome even if the claim is proven true. Let us start with the first: can you expect to have all the worlds learning for free? 
+
+There's reason to believe the answer to the above question is *no*. After all, it costs an enormous amount of money to create a good learning resource. How will institutions recoup their costs? One possibility is a freemium model, where the basic material will be available to everyone for free but additional material, especially certification, costs money.  Another possibility: institutions will use these materials for their own students, and reduce costs in their own system. Finally, and what's most likely - these companies are really data companies, i.e., they don't sell products to you. Instead you are the product - your performance, your learning style, your grades are all sold to others: potential employers, bundled with other data stores can be incredibly useful in pushing other kinds of products towards you.
+
+> Imagine how your performance on courses, current job specs and your aspirations (as revealed by the courses you sign up for) are all given over to headhunters, real estate agents, housing loan providers etc. 
+
+These and other models are possible, but all of them fall short of the liberating promise in one way or the other - either the real value is locked up behind a pay wall or worse, you become the target of marketing. 
+
+Now, let's assume that for some reason or the other all of us have free and unrestricted access to all the lectures in the world taught by the best faculty from MIT, Harvard, Berkeley, Oxford and so on.  Let's say that's made possible because Bill Gates, Jeff Bezos, Larry Page and Sergei Brin donate their entire fortune to a public trust that will produce free, open educational content. Is that enough? Let's use the language of the minimal viable product - is an infinite buffet of MOOCs a minimal viable product? I don't think so. There are several reasons: 
+
+1. As is now well known, MOOC's don't give us the context in which learning happens. Peer and mentor interaction is minimal (that's what costs money!) and the use of MOOCs as individual knowledge vehicles, akin to infotainment, will only increase the trend towards greater isolation. Just as TV stopped us from public modes of entertainment, MOOCs will actually stop us from public modes of learning. 
+
+2. Unfortunately, learning is meant to be a public exercise! The creation of a knowledge commons is central to learning. This is true for metaphysical reasons - that knowledge is fundamentally free - and for pragmatic reasons - you are training people to work in society, not in isolated chambers. For that reason, the fact that MOOCs increase the trend towards abstraction and isolation rather than embedded knowledge is a design flaw. The only reason it can be justified even at the pragmatic level is if people are widgets, whose performance can be measured and tracked and if they can be replaced with other widgets when needed. In other words, a mass atomized society of well functioning people widgets is the logical outcome of the MOOC movement. In other words, if you want a society in which you can beam everything, i.e., entertainment, knowledge, politics and trade via a screen that mediates your interaction with others then you can keep complete and total control over that society. You can tell people what they need to think, what's valuable and what's replaceable.
+
+3. Learning cannot be separated from the experience of learning and the process of creating knowledge. You see, the major universities realize that their real assets are: 
+  * Their research output, which generates a lot more money in grants than tuition ever can. 
+  * Their campus experience, which immerses students in an enriched learning environment.
+  * The social network, which gives their students the connections and the social capital for future success. 
+Even if all the classes in the world are available to you for free, in fact, especially if they are free, the value of the three differentiators of the prestigious university only increases, i.e., the experience of learning on campus, the creation of knowledge through research and the social network are luxury goods that people will go to any lengths to acquire. In my opinion, a minimal viable product that's a genuine alternative will have to open all these luxury goods to a much larger group of people. That's the right thing (if we believe in an egalitarian society) and the smart thing (building a knowledge society will need a lot more than 1% of the population being capable of genuine knowledge work). 
+
+We are entering an era in which knowledge is no longer a luxury, but a necessity. Just as literacy is seen as a fundamental right and a basic skill, so is knowledge and the ability to learn how to learn. Humanity's greatest challenges will only be met by mass consensus on our collective goals based on knowledge rather than opinion. That in turn requires widespread access to high-trust, high cooperation knowledge networks. Which will only happen if:
+
+> People are the focal point of knowledge, not products whether they be books or degrees.
+
+How can we create a people-centric knowledge system that:
+
+* **Is** fair, just and creative; produces the knowledge that we need to address the challenges of the 21st century while creating sustainable livelihoods for people in the system (the teachers and researchers) and the people the system releases into society (students). 
+* Is **not** a caricature of a certain kind of left-wing propaganda, i.e., statist, slow and hierarchical. Instead, it should be dynamic, energetic and capable of generating surplus. 
+
+I believe we can address this challenge. A new model of knowledge production is emerging in pockets across the world, but injecting an element of design will speed this process, so that an economy of knowledge sharing can be created. 
+
+***
+
+## The Design of Shared Knowledge

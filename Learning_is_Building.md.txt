@@ -1,0 +1,128 @@
+## The Building Blocks of Learning 
+
+Traditional education - both school and college - comes aggregated. It's organized in terms of wholes that cannot really be broken down into parts, especially in places like India where you don't have much choice in the way your degree is bundled. You sign up for an English literature degree or for an electrical engineering degree and your path to the degree is preordained. 
+
+American university degrees are much more disaggregated. For example, you don't have to declare a major right away; which means that you can decide what you want to major in later and you can take a minor or a concentration on top of the major. Within the major, especially in a large university with several courses offered by the department every semester, you have a choice of courses and learning paths that stick to the major but let you experiment within it. Then there's all the extra learning that comes from internships, travel abroad etc. 
+
+Nevertheless, we are now ready to disaggregate the degree a lot further, so that the units are no longer majors, minors and courses but all kinds of new learning paths that are built out of bricks at the level of a single lesson. 
+
+![](https://draftin.com:443/images/2204?token=oAPUAUi5aBKvpxXufeOUf8Av4qhL58yTGLPSbgIiHrKmDMYBt93W_YPo6_u46_0HGS_xLOwFaZ3TDaSTmSBYgls) 
+
+***
+#### Shreyas
+Would too much freedom, in terms of being able to wholesale construct an entire curriculum on their own, actually be a good thing? Can we expect 18 year olds, who apart from having fiddled with a few circuits, _know_ what they _need_ to learn over the course of 4 years? To draw an analogy, can we expect a group of campers to successfully find their way out of a forest without being told about the possible pitfalls and life-savers and without having an overview of the region? In my opinion, the curriculum should be the metaphorical map-cum-compass, which gives them the path that they can use.
+
+Just as an example,  ['self-trained programmers'](http://www.quora.com/Computer-Programmers/What-skills-do-self-taught-programmers-commonly-lack), do find their own way around programming, they generally don't have exposure to the multitude of areas of research a CS educated student would have. But, this is of course completely remediable and I suspect that the ideal pathway is somewhere in between current educational systems and complete autonomy.
+***
+
+## Learning Bricks Precursors 
+
+Let's now look at the main idea behind the learning bricks model. We will constrast it with it's closest progenitor - the [scratch](http://scratch.mit.edu) programming language. 
+
+Before that, let's look at the architecture of a program - as contrasted with the theory of a program. Most modern programs are built out of individual pieces - functions and modules for example - that are reusable bricks. Program architecture is not that different from building houses and cars using Lego bricks. Scratch takes that idea and makes it literal - it helps you build programs out of visual bricks, each one of which does a particular action. 
+
+Scratch also allows you to share your programs with others. What it doesn't let you do is:
+
+1. What has now become common place with git, namely, the ability to clone, fork and merge your work with others.
+
+2. What even git doesn't let you do - which is to trace lineages, respond to others etc.
+
+The spatial view of programs as buildings is rather useful. It helps us think about the various elements that go into building a program, create reusable pieces and standard templates and blueprints for putting the pieces together into a functioning building. To use a biological analogy, Scratch is primarily a phenotype language - it helps you build something *now* out of programming bricks. While it has sharing features, those are really not built for descent with modification, which is the essence of genotypes. This is what I call phenotype engineering, which of course prompts the question:
+
+> What is genotype engineering? 
+
+If phenotype engineering is about space, genotype engineering is about time. It's about tracing the history of an entity as it undergoes descent and modification. On the whole, software engineering (and engineering in general) don't pay much attention to the time dimension of their products. 
+
+Software programs aren't seen in time - given that they are designed for use by a person one at a time, we are much more concerned with the phenotype than with the genotype. Version control is perhaps the first attempt to make the genotype of an engineering artifact visible to others, and it's an incredibly useful tool for working with others and to create new projects that depend on other people's projects. 
+
+Still git is primarily a collaboration tool, not a tool to trace lineage, which makes it less useful for knowledge creation efforts where tracing the lineage is important to assign credit, to correct errors, to dispute and critique.   
+
+***
+## Programming Learnable Bricks
+
+Any implementation of learning bricks needs both genotype and phenotype engineering, i.e., whatever the underlying unit might be, that unit has to be made transparent both in space and in time. What do I mean by that?
+
+First of all, it means two things: 
+
+1. The design of a particular house - the phenotype - requires various bricks and the assembly of those bricks in a particular order. Let's call that a blueprint. In order to make phenotype engineering possible, those blueprints should be available to a learner, and if none is available and you create one, that blueprints should be shareable, i.e., that I should be able to tell the world *exactly how* I built a particular house (or repaired a door in the house). This makes phenotype engineering transparent. Note that the basic unit of the genotype - the blueprint is the 
+
+2. The history of the evolution of a particular blueprint should also be made transparent, by making it possible for anyone to visually inspect where the blueprint came from and who contributed to its various stages. This makes attribution easy, it also helps us backtrack and build out of earlier versions of the blueprint 
+  - Consider a use case where someone shares a blueprint with you,  and you like some of it's features but you either don't want the whole house or you don't like all it's aspects, you should be able to go back in the blueprints' history and extract only those elements that you need. 
+
+![](https://draftin.com:443/images/2231?token=nDVj0NjyfBb58wrOVyXZ2NdAz43MC6LSVYFi2aTAX-qtl3VUl9Pz-uGa77growO_RZbCg-z84KcbEAjy5bq1bIg) 
+
+So the underlying idea is simple and two-fold:
+
+* Create buildspaces where people can individually or collaboratively load a blueprint, modify it if needed and then build a house out of the modified version. 
+
+* Output the final blueprint (i.e., the blueprint that actually builds the house in the buildspace) and export it for sharing, merging etc in other buildspaces. 
+
+These two put together are at the foundation of a new language for collaborative thinking that I call **cogit**.  
+
+***
+
+## Cogit 
+
+I imagine cogit to be a a new grammar of learning and knowledge, which has both the phenotype and the genotype built into it. 
+
+Any new language, whether natural (Swahili) or artificial (Python) has a learning curve, however gentle or steep that curve might be. This is not a bad thing, especially if we want to create a community of learners. Why so? Because a learning curve demands commitment, howsoever small. We should not to create a frictionless world, not at the beginning. Early adopters like commitment, or rather, we want early adopters who are willing to give us their time and mental energy.  It's important for everyone to get comfortable with a new technical vocabulary -- precise concepts and distinctions take time to learn, but they pay off in the long run. That's why git succeeded, and that's why cogit will succeed. The converse - cogit won't succeed without wide adoption of a common technical language. 
+
+## Shreyas
+
+I'm not quite sure I agree with the language argument. Were natural languages intentionally made difficult or made to have significant learning curves? I really don't think so. And, coming to 'artificial' languages, I think it's quite the opposite. A lot of programming languages have tried to take programming constructs from C & C++, because since most programmers back then who were familiar with this system, could find the jump easier to Java or Python. In fact, Python and Ruby take this even further, in that, if written properly, Python & Ruby can appear as English prose (This person [wrote a poem](http://jpfuentes2.tumblr.com/post/39935683274/a-letter-to-my-daughter-augusta-in-ruby) for his daughter in Ruby). 
+
+## Rajesh
+
+Believe me, compared to a natural language *every* programming language is a technical language. Whether Python or Ruby, while on the surface the code is human readable, there's a major difference: words have precise meanings. That's what makes it into a programming language. There's a reason why technical languages have been invented throughout history. 
+ 
+***
+
+## What's the logic? 
+
+The idea of open, collaborative work has taken off in the software world more than anywhere else. What's interesting is that open source software performs two functions: 
+
+1. It creates bricks and plans that other's can easily borrow and reuse. 
+2. It creates a community of developers who create software collaboratively. 
+
+Git is fundamentally a space that makes both 1 and 2 easy; to find as well as participate. 
+
+However, the knowledge business (and the learning business in particular) is not a technology business; it's a *media* business. Teachers and learners both create and consume media such as texts, videos and lectures. The collaborative creation of knowledge will need a formulation of git that works for media rather than for programs. The shift from programs to media will entail changes in the design of the language. Cogit borrows some principles from git, but at the same time, it departs from git in substantial ways. 
+
+### Cogit Syntax
+
+Learning a new language is hard, and it inevitably throws some new terminology at us. At the same time, we want the syntax and vocabulary to be grounded in common sense with a colloquial feel. The language should based on concepts and labels as close as possible to their everyday usage, which is to say:
+
+> Cogit should be as close as possible to a *shared* language of **thought**.
+
+Git fulfills the promise of a language of thought, or at least a language of geek thought. It uses everyday concepts while giving them a technical meaning that has precision. We should build upon that, for it allows us to generalize the meaning of git terms to learning and teaching situations while remaining true to the spirit of what git is trying to achieve. Also, by making the technical terms *visual* we will make it a lot easier for people to understand what we want them to be doing. Some sample technical terms below:
+
+* Pull: Load a repository into your buildspace. Think of a repository as a library of bricks, blueprints (and collaborators?) 
+* Checkout: Which means, load a brick into your buildspace. In the library mode, it's the current "book" you are reading; in craft mode, it's the brick you are modifying and remaking. 
+* Add: Once you are done with remaking, put your into the line of bricks that going into the oven. Takes elements that you have changed and puts them into a staging area before committing your changes
+* Commit: Now, that you are happy with the changes, go ahead and bake the new brick - make it ready for use by yourself and others in a project. 
+* Merge: Tell your collaborators that your brick is better than the brick you checked out and is now ready to go back into the building under construction. 
+* Fork: Take someone else's building and create your own version of it. 
+
+
+Not all the actions we want for learning and teaching are available in git. For example, we need:
+
+
+* Share: A way to show your brick to others while you are working on it. Very useful for feedback and critique. 
+* Respond: Different from forking because you are creating a new repository as a response to someone else's repository -- very useful if you are writing a paper in response to another paper. A sub-version of this is *cite* where all you are doing is citing someone elses work.
+* Stack: As Newton said, we are able to see further because we stand on the shoulders of giants. In order to do so, we should be able to create our work on top of other's work. Forking is not enough -- we really don't want to recreate the whole repository - we want to know whether the building is solid until floor N and build floor N+1. 
+
+![](https://draftin.com:443/images/2322?token=_k3eNU46gTMPCzhpWyDRZjr-IWozuVxnc2McQup8EIGL7eKUuZjAmaUcNhGAchu8DgCJYznjS_DOlr3kwbgg-AM) 
+
+
+##Summary
+
+To summarize, we have two systematic analogies in the phenotypic engineering of cogit: 
+
+1. Learning is like Building
+2. Knowledge is a library
+
+The genotype is easier, conceptually, though harder to implement: 
+
+* The evolution of knowledge is like evolution by selection. 
+
+The more we can bring bricks and blueprints as the building blocks of a common language for **both** the phenotypic and the genotypic enginering of cogit, the more we will be able to create a new medium for learning and inquiry. 
